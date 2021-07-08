@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HrApplication</string>
+    <string name="title_home">首頁</string>
+    <string name="title_dashboard">功能</string>
+    <string name="title_notifications">通知</string>
+    <string name="title_sign">簽核</string>
+    <string name="title_setting">設定</string>
+    <string name="title_att">考勤匯總表</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
